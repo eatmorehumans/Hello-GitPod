@@ -1,2 +1,2 @@
-const message = 'Hello World';
+const message = 'Hello World 2';
 console.log(message, 'from Gitpod!');
