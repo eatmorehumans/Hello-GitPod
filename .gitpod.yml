@@ -1,0 +1,5 @@
+image:
+  file: Dockerfile
+tasks:
+- command: node app.js
+- init: node --version
